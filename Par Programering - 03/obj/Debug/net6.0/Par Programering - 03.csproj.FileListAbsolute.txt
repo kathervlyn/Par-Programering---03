@@ -1,0 +1,14 @@
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\bin\Debug\net6.0\Par Programering - 03.exe
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\bin\Debug\net6.0\Par Programering - 03.deps.json
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\bin\Debug\net6.0\Par Programering - 03.runtimeconfig.json
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\bin\Debug\net6.0\Par Programering - 03.dll
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\bin\Debug\net6.0\Par Programering - 03.pdb
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\Par Programering - 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\Par Programering - 03.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\Par Programering - 03.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\Par Programering - 03.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\Par Programering - 03.dll
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\refint\Par Programering - 03.dll
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\Par Programering - 03.pdb
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\Par Programering - 03.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Documents\Skrivebord\Get Oppgaver\Par Programering\Par Programering - 03\Par Programering - 03\obj\Debug\net6.0\ref\Par Programering - 03.dll
